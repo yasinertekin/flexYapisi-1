@@ -24,7 +24,7 @@ function App(){
     container:{
     flex:1,//tepedekine bir değer vermezsek hiçbir şey gözükmez flex belirtmek zorundayız
     //ekrana belli bir yer kapla diyoruz aslında bunu yaparak yani hepsini mesela
-    flexDirection:'column', //Yan Yana getirdi containerları
+    flexDirection:'row', //Yan Yana getirdi containerları
            
     },
     
